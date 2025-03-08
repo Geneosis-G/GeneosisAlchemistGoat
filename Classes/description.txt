@@ -1,0 +1,40 @@
+To create, something of equal value must be lost.
+
+This is the principal of equivalent exchange, and this is why Alchemists are able to perform transmutation: to break down the structure of any material and then reconstruct it as something else. Many Alchemists tried to create the legendary material known as Philosopher's Stone, but none of them managed to find it yet... It is said to provide to its owner immortality, and unimaginable powers!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Alchemist Goat: You can change the materials objects are made of.
+
+[b]COMMANDS[/b]
+- [b][RightClick] + [Ctrl]:[/b] Change the current transmutation material.
+- [b][RightClick] + [E]:[/b] Hold 1s to transmute the object you lick.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][LT] + [DPadDown]:[/b] Change the current transmutation material.
+- [b][LT] + [X]:[/b] Hold 1s to transmute the object you lick.
+
+[b]CHARACTERISTICS[/b]
+- The current transmutation material is visible on the orb you wear on your back.
+- If a transmutation make an object blue and white instead of the material you wanted, this means your current material is not compatible with this object.
+- You can use console commands to learn new transmutation materials. Tutorial here.
+- Lick the Philosopher's Stone to become an ArchiAlchemist.
+- As ArchiAlchemist, if you are not licking anything when you try a transmutation, the first object in front of you will be transmuted.
+
+[b]EASTER EGGS[/b]
+- [spoiler]To create the Philosopher's Stone, you need to sacrifice living creatures.[/spoiler]
+- [spoiler]To sacrifice a human you need to try a transmutation on it with a transmutation circle.[/spoiler]
+- [spoiler]As ArchiAlchemist, you can also transmute living creatures, bust most materials won't work on them.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- The name of the objects you transmuted is wrong (can't fix).
+- The transmutation circle is red instead of blue (blue circle crash the game for now).
+- You can get a negative score by hitting the Philosopher's Stone: yes.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This mod is the resurected version of the Body Paint Goat I tried to do some times ago but abandoned because it was not working as I expected. The main problem was that you can't apply any object material to a living creature... Anyway I discovered later that you can (most of the time) apply the material of an object to any other object :D This is how I got the idea of this mod ^^
+When I imagined it first, I wanted the goat to be able to "copy" the material of an object by licking it, and then be able to "paste" it on another licked object. Sadly I was about to abandon this mod too because 90% of the time you have no way to get the material of the object you are licking using code -_-
+Anyway I wanted to have this mod working really hard so I came with another solution: I made amnually a list of nice materials I found in the game and made it possible for the player to select a material in this list ^^ Also, I found a really usefull console command allowing to display all the materials present in the current map, so I decided to make some user-friendly console commands to let anyone add and remove materials to his own list :)
+Finally, making an Alchemist mod without Philosopher's Stone would have been disappointing, this is why I added an easter egg inspired by the Fullmetal Alchemist series that let you create the Philosopher's Stone and mess with human transmutation stuff ;) For that I originally wanted to use the sacrificial circle painted in blue as a transmutation circle, sadly the painting part went wrong and my mod was crashing the game when I was using the blue circle :/ So for now I use the original circe instead.
+[/quote]
